@@ -1,0 +1,21 @@
+{
+  "name": "lecture-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build step required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saba-Vardosanidze/node-lecture-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saba-Vardosanidze/node-lecture-4/issues"
+  },
+  "homepage": "https://github.com/Saba-Vardosanidze/node-lecture-4#readme"
+}
