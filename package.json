@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Saba-Vardosanidze/node-lecture-4/issues"
   },
-  "homepage": "https://github.com/Saba-Vardosanidze/node-lecture-4#readme"
+  "homepage": "https://github.com/Saba-Vardosanidze/node-lecture-4#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
