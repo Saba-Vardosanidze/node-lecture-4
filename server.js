@@ -27,5 +27,5 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(PORT, () => {
-  console.log('http://localhost:3000');
+  console.log(`http://localhost:${PORT}`);
 });
